@@ -2,7 +2,6 @@
   {
     "type": "item_group",
     "id": "textbooks",
-    "copy-from": "textbooks",
-    "extend": { "items": [ [ "book_asgard", 1 ] ] }
+    "items": [ [ "book_asgard", 1 ] ]
   }
 ]

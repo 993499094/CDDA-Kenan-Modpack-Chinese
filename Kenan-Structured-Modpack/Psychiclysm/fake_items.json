@@ -1,6 +1,6 @@
 [
   {
-    "id": "bio_resist_fear_fake",
+    "id": "bio_resist_fear",
     "copy-from": "fake_item",
     "type": "TOOL",
     "name": { "str": "Resist Fear Controls" },
@@ -8,7 +8,7 @@
     "flags": [ "NO_UNWIELD", "TRADER_AVOID" ]
   },
   {
-    "id": "bio_resist_psychic_fake",
+    "id": "bio_resist_psychic",
     "copy-from": "fake_item",
     "type": "TOOL",
     "name": { "str": "Psychic Shield Controls" },

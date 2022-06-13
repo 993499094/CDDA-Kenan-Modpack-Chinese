@@ -7,19 +7,16 @@
   {
     "type": "item_group",
     "id": "mansion_books",
-    "copy-from": "mansion_books",
-    "extend": { "items": [ [ "relicscythes_book", 1 ] ] }
+    "items": [ [ "relicscythes_book", 1 ] ]
   },
   {
     "type": "item_group",
     "id": "novels",
-    "copy-from": "novels",
-    "extend": { "items": [ [ "manual_shinigami", 5 ] ] }
+    "items": [ [ "manual_shinigami", 5 ] ]
   },
   {
     "type": "item_group",
     "id": "hospital_bed",
-    "copy-from": "hospital_bed",
-    "extend": { "items": [ [ "manual_shinigami", 1 ] ] }
+    "items": [ [ "manual_shinigami", 1 ] ]
   }
 ]

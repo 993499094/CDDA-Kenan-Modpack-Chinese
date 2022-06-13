@@ -2,8 +2,7 @@
   {
     "type": "item_group",
     "id": "teleport",
-    "copy-from": "teleport",
-    "extend": { "items": [ [ "rt_crystal_shard", 5 ] ] }
+    "items": [ [ "rt_crystal_shard", 5 ] ]
   },
   {
     "type": "GENERIC",

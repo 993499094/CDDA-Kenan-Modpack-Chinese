@@ -62,9 +62,16 @@
     "warmth": 20,
     "use_action": { "type": "holster" },
     "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OUTER" ],
-    "armor": [ { "encumbrance": 24, "coverage": 96, "covers": [ "torso" ] } ],
-    "material_thickness": 3,
-    "environmental_protection": 4
+    "armor": [
+      {
+        "encumbrance": 24,
+        "coverage": 96,
+        "covers": [ "torso" ],
+        "material": [ "spess_plastic", "ceramic" ],
+        "material_thickness": 3,
+        "environmental_protection": 4
+      }
+    ]
   },
   {
     "id": "megaarmor_torso_2",
@@ -85,9 +92,16 @@
     ],
     "warmth": 20,
     "flags": [ "VARSIZE", "WATERPROOF", "SKINTIGHT", "RAD_RESIST", "STURDY", "SUPER_FANCY" ],
-    "armor": [ { "encumbrance": 10, "coverage": 100, "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ] } ],
-    "material_thickness": 1,
-    "environmental_protection": 5
+    "armor": [
+      {
+        "encumbrance": 10,
+        "coverage": 100,
+        "covers": [ "torso", "arm_l", "arm_r", "leg_l", "leg_r" ],
+        "material": [ "spess_plastic" ],
+        "material_thickness": 1,
+        "environmental_protection": 5
+      }
+    ]
   },
   {
     "id": "megaarmor_torso_3",
@@ -98,7 +112,7 @@
     "weight": "8764 g",
     "volume": "19 L",
     "price": "150 kUSD",
-    "material": [ "spess_plastic", "qt_steel" ],
+    "material": [ "spess_plastic", "hardsteel" ],
     "looks_like": "depowered_armor",
     "symbol": "[",
     "color": "light_red",
@@ -138,11 +152,12 @@
       {
         "encumbrance": 38,
         "coverage": 100,
-        "covers": [ "torso", "leg_l", "leg_r", "foot_l", "foot_r", "arm_l", "arm_r", "hand_r", "hand_l" ]
+        "covers": [ "torso", "leg_l", "leg_r", "foot_l", "foot_r", "arm_l", "arm_r", "hand_r", "hand_l" ],
+        "material": [ "spess_plastic", "hardsteel" ],
+        "material_thickness": 2,
+        "environmental_protection": 6
       }
-    ],
-    "material_thickness": 2,
-    "environmental_protection": 6
+    ]
   },
   {
     "id": "megaarmor_torso_3_act",
@@ -153,7 +168,7 @@
     "weight": "8764 g",
     "volume": "19 L",
     "price": "150 kUSD",
-    "material": [ "spess_plastic", "qt_steel" ],
+    "material": [ "spess_plastic", "hardsteel" ],
     "looks_like": "depowered_armor",
     "symbol": "[",
     "color": "light_red",
@@ -195,11 +210,12 @@
       {
         "encumbrance": 24,
         "coverage": 100,
-        "covers": [ "torso", "leg_l", "leg_r", "foot_l", "foot_r", "arm_l", "arm_r", "hand_l", "hand_r" ]
+        "covers": [ "torso", "leg_l", "leg_r", "foot_l", "foot_r", "arm_l", "arm_r", "hand_l", "hand_r" ],
+        "material": [ "spess_plastic", "hardsteel" ],
+        "material_thickness": 3,
+        "environmental_protection": 8
       }
-    ],
-    "material_thickness": 3,
-    "environmental_protection": 8
+    ]
   },
   {
     "id": "megaarmor_head_1",
@@ -219,9 +235,16 @@
     "warmth": 30,
     "techniques": [ "WBLOCK_1" ],
     "flags": [ "VARSIZE", "STURDY", "SUN_GLASSES", "WATERPROOF", "THERMOMETER", "HYGROMETER", "BAROMETER", "WATCH" ],
-    "armor": [ { "encumbrance": 30, "coverage": 100, "covers": [ "head", "eyes", "mouth" ] } ],
-    "material_thickness": 4,
-    "environmental_protection": 5
+    "armor": [
+      {
+        "encumbrance": 30,
+        "coverage": 100,
+        "covers": [ "head", "eyes", "mouth" ],
+        "material": [ "spess_plastic", "ceramic" ],
+        "material_thickness": 4,
+        "environmental_protection": 5
+      }
+    ]
   },
   {
     "id": "megaarmor_leggings_1",
@@ -242,9 +265,16 @@
     ],
     "warmth": 25,
     "flags": [ "VARSIZE", "STURDY", "WATERPROOF" ],
-    "armor": [ { "encumbrance": 20, "coverage": 98, "covers": [ "leg_l", "leg_r" ] } ],
-    "material_thickness": 2,
-    "environmental_protection": 3
+    "armor": [
+      {
+        "encumbrance": 20,
+        "coverage": 98,
+        "covers": [ "leg_l", "leg_r" ],
+        "material": [ "spess_plastic", "neoprene" ],
+        "material_thickness": 2,
+        "environmental_protection": 3
+      }
+    ]
   },
   {
     "id": "megaarmor_boots_1",
@@ -263,9 +293,16 @@
     "color": "light_gray",
     "warmth": 30,
     "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "OUTER" ],
-    "armor": [ { "encumbrance": 40, "coverage": 100, "covers": [ "foot_l", "foot_r" ] } ],
-    "material_thickness": 3,
-    "environmental_protection": 4
+    "armor": [
+      {
+        "encumbrance": 40,
+        "coverage": 100,
+        "covers": [ "foot_l", "foot_r" ],
+        "material": [ "spess_plastic", "steel" ],
+        "material_thickness": 3,
+        "environmental_protection": 4
+      }
+    ]
   },
   {
     "id": "megaarmor_gloves_1",
@@ -283,9 +320,16 @@
     "color": "light_gray",
     "warmth": 15,
     "flags": [ "VARSIZE", "STURDY", "SKINTIGHT", "WATERPROOF" ],
-    "armor": [ { "encumbrance": 12, "coverage": 90, "covers": [ "hand_l", "hand_r" ] } ],
-    "material_thickness": 2,
-    "environmental_protection": 2
+    "armor": [
+      {
+        "encumbrance": 12,
+        "coverage": 90,
+        "covers": [ "hand_l", "hand_r" ],
+        "material": [ "spess_plastic", "leather" ],
+        "material_thickness": 2,
+        "environmental_protection": 2
+      }
+    ]
   },
   {
     "id": "megaarmor_armguards_1",
@@ -301,9 +345,16 @@
     "color": "light_green",
     "warmth": 25,
     "flags": [ "SKINTIGHT", "STURDY", "WATERPROOF" ],
-    "armor": [ { "encumbrance": 6, "coverage": 96, "covers": [ "hand_l", "hand_r" ] } ],
-    "material_thickness": 2,
-    "environmental_protection": 2
+    "armor": [
+      {
+        "encumbrance": 6,
+        "coverage": 96,
+        "covers": [ "hand_l", "hand_r" ],
+        "material": [ "spess_plastic", "neoprene" ],
+        "material_thickness": 2,
+        "environmental_protection": 2
+      }
+    ]
   },
   {
     "id": "helmet_bone_megabear",
@@ -322,9 +373,16 @@
     "color": "white",
     "warmth": 10,
     "flags": [ "VARSIZE", "WATERPROOF", "STURDY", "FANCY" ],
-    "armor": [ { "encumbrance": 22, "coverage": 80, "covers": [ "head", "eyes" ] } ],
-    "material_thickness": 5,
-    "environmental_protection": 3
+    "armor": [
+      {
+        "encumbrance": 22,
+        "coverage": 80,
+        "covers": [ "head", "eyes" ],
+        "material": [ "bone" ],
+        "material_thickness": 5,
+        "environmental_protection": 3
+      }
+    ]
   },
   {
     "id": "vest_leather_zuicide_short",
@@ -351,9 +409,16 @@
       "type": "transform"
     },
     "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [ { "encumbrance": 8, "coverage": 90, "covers": [ "torso" ] } ],
-    "material_thickness": 3,
-    "environmental_protection": 1
+    "armor": [
+      {
+        "encumbrance": 8,
+        "coverage": 90,
+        "covers": [ "torso" ],
+        "material": [ "leather" ],
+        "material_thickness": 3,
+        "environmental_protection": 1
+      }
+    ]
   },
   {
     "id": "vest_leather_zuicide_short_active",
@@ -383,9 +448,16 @@
       "explosion": { "power": 40, "shrapnel": 3 }
     },
     "flags": [ "VARSIZE", "POCKETS", "OUTER" ],
-    "armor": [ { "encumbrance": 8, "coverage": 90, "covers": [ "torso" ] } ],
-    "material_thickness": 3,
-    "environmental_protection": 1
+    "armor": [
+      {
+        "encumbrance": 8,
+        "coverage": 90,
+        "covers": [ "torso" ],
+        "material": [ "leather" ],
+        "material_thickness": 3,
+        "environmental_protection": 1
+      }
+    ]
   },
   {
     "id": "sac_purse",
@@ -406,8 +478,7 @@
     "pocket_data": [ { "max_contains_volume": "300 ml", "max_contains_weight": "500 g", "watertight": true, "rigid": true } ],
     "use_action": { "target": "sac_purse_arm", "msg": "You take a moment to adjust the strings of your pouch.", "type": "transform" },
     "flags": [ "FRAGILE", "TARDIS" ],
-    "armor": [ { "encumbrance": 0, "coverage": 2, "covers": [ "torso" ] } ],
-    "material_thickness": 1
+    "armor": [ { "encumbrance": 0, "coverage": 2, "covers": [ "torso" ], "material": [ "veggy" ], "material_thickness": 1 } ]
   },
   {
     "id": "sac_purse_arm",
@@ -497,7 +568,7 @@
     "weight": "8840 g",
     "color": "dark_gray",
     "price": "8 kUSD",
-    "material": [ "qt_steel", "plastic" ],
+    "material": [ "hardsteel", "plastic" ],
     "looks_like": "waterskin",
     "volume": "4500 ml",
     "to_hit": -1,
@@ -506,8 +577,15 @@
     "flags": [ "OVERSIZE", "RESTRICT_HANDS", "ALLOWS_NATURAL_ATTACKS", "BLOCK_WHILE_WORN" ],
     "techniques": [ "WBLOCK_3", "BRUTAL" ],
     "use_action": { "type": "transform", "msg": "The tactical shield is pulled to a defensive posture!", "target": "swat_shield_act" },
-    "armor": [ { "encumbrance": 22, "coverage": 45, "covers": [ "hand_l", "hand_r" ] } ],
-    "material_thickness": 2
+    "armor": [
+      {
+        "encumbrance": 22,
+        "coverage": 45,
+        "covers": [ "hand_l", "hand_r" ],
+        "material": [ "hardsteel", "plastic" ],
+        "material_thickness": 2
+      }
+    ]
   },
   {
     "type": "ARMOR",
@@ -517,7 +595,7 @@
     "weight": "8840 g",
     "color": "dark_gray",
     "price": "8 kUSD",
-    "material": [ "qt_steel", "plastic" ],
+    "material": [ "hardsteel", "plastic" ],
     "volume": "4500 ml",
     "to_hit": -1,
     "symbol": "{",
@@ -528,10 +606,11 @@
       {
         "encumbrance": 26,
         "coverage": 80,
-        "covers": [ "torso", "leg_l", "leg_r", "eyes", "mouth", "arm_l", "arm_r", "hand_l", "hand_r" ]
+        "covers": [ "torso", "leg_l", "leg_r", "eyes", "mouth", "arm_l", "arm_r", "hand_l", "hand_r" ],
+        "material": [ "hardsteel", "plastic" ],
+        "material_thickness": 2
       }
-    ],
-    "material_thickness": 2
+    ]
   },
   {
     "id": "kevlar_tee",
@@ -550,8 +629,7 @@
     "color": "light_gray",
     "warmth": 20,
     "flags": [ "STURDY", "SKINTIGHT" ],
-    "armor": [ { "encumbrance": 4, "coverage": 85, "covers": [ "torso" ] } ],
-    "material_thickness": 3
+    "armor": [ { "encumbrance": 4, "coverage": 85, "covers": [ "torso" ], "material": [ "kevlar" ], "material_thickness": 3 } ]
   },
   {
     "id": "armguard_larmor_mod",
@@ -569,9 +647,16 @@
     "color": "brown",
     "warmth": 25,
     "flags": [ "STURDY", "BLOCK_WHILE_WORN", "BELTED" ],
-    "armor": [ { "encumbrance": 16, "coverage": 92, "covers": [ "hand_l", "hand_r" ] } ],
-    "material_thickness": 3,
-    "environmental_protection": 2
+    "armor": [
+      {
+        "encumbrance": 16,
+        "coverage": 92,
+        "covers": [ "hand_l", "hand_r" ],
+        "material": [ "leather", "iron" ],
+        "material_thickness": 3,
+        "environmental_protection": 2
+      }
+    ]
   },
   {
     "id": "locket_lucy",
@@ -587,6 +672,6 @@
     "symbol": "[",
     "warmth": 0,
     "flags": [ "FANCY", "ZERO_WEIGHT" ],
-    "material_thickness": 0
+    "armor": [ { "encumbrance": 0, "coverage": 0, "material": [ "silver" ], "material_thickness": 0 } ]
   }
 ]

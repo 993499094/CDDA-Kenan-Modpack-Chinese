@@ -15,9 +15,7 @@
       }
     ],
     "use_action": { "type": "holster", "holster_prompt": "Sheath blade", "holster_msg": "You sheath your %s" },
-    "armor": [ { "encumbrance": 1, "covers": [ "torso" ], "specifically_covers": [ "torso_waist" ] } ],
-    "material": [ "leather" ],
-    "material_thickness": 2
+    "armor": [ { "encumbrance": 1, "material": [ "leather" ], "material_thickness": 2 } ]
   },
   {
     "copy-from": "noise_emitter_on",
@@ -122,7 +120,7 @@
     "category": "weapons",
     "name": { "str": "flammenschwert (aus)", "str_pl": "flammenschwerter (aus)" },
     "//": "All of this is SUPPOSED to be in German.",
-    "description": "Ein gro\u00dfes zweih\u00e4ndiges Schwert aus Deutschland, an dessen Klinge sich, unter Zuf\u00fchrung von Benzin, eine anhaltende Flamme erzeugen l\u00e4sst.  Es ist eine sehr m\u00e4chtige Waffe.",
+    "description": "Ein großes zweihändiges Schwert aus Deutschland, an dessen Klinge sich, unter Zuführung von Benzin, eine anhaltende Flamme erzeugen lässt.  Es ist eine sehr mächtige Waffe.",
     "weight": "3400 g",
     "volume": "3750 ml",
     "price": "1600 USD",
@@ -153,7 +151,7 @@
     "category": "weapons",
     "name": { "str": "flammenschwert", "str_pl": "flammenschwerter" },
     "//": "All of this is SUPPOSED to be in German.",
-    "description": "Ein gro\u00dfes zweih\u00e4ndiges Schwert aus Deutschland, an dessen Klinge sich, unter Zuf\u00fchrung von Benzin, eine anhaltende Flamme erzeugen l\u00e4sst.  Es ist eine sehr m\u00e4chtige Waffe.",
+    "description": "Ein großes zweihändiges Schwert aus Deutschland, an dessen Klinge sich, unter Zuführung von Benzin, eine anhaltende Flamme erzeugen lässt.  Es ist eine sehr mächtige Waffe.",
     "weight": "3400 g",
     "volume": "3750 ml",
     "price": "1600 USD",

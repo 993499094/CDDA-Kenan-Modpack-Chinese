@@ -76,87 +76,72 @@
   {
     "type": "item_group",
     "id": "child_items",
-    "copy-from": "child_items",
-    "extend": {
-      "items": [
-        { "group": "trading_cards", "prob": 100 },
-        { "group": "plushies", "prob": 100 },
-        [ "foam_dart_pistol", 10 ],
-        [ "foam_dart", 10 ],
-        [ "foam_dart_smg", 5 ]
-      ]
-    }
+    "items": [
+      { "group": "trading_cards", "prob": 100 },
+      { "group": "plushies", "prob": 100 },
+      [ "foam_dart_pistol", 10 ],
+      [ "foam_dart", 10 ],
+      [ "foam_dart_smg", 5 ]
+    ]
   },
   {
     "type": "item_group",
     "id": "dining",
-    "copy-from": "dining",
-    "extend": { "items": [ [ "china_plate_blue", 10 ], [ "china_plate_red", 10 ], [ "china_plate_green", 5 ] ] }
+    "items": [ [ "china_plate_blue", 10 ], [ "china_plate_red", 10 ], [ "china_plate_green", 5 ] ]
   },
   {
     "id": "dinnerware",
     "type": "item_group",
-    "copy-from": "dinnerware",
-    "extend": { "items": [ [ "china_plate_blue", 2 ], [ "china_plate_red", 2 ], [ "china_plate_green", 1 ] ] }
+    "items": [ [ "china_plate_blue", 2 ], [ "china_plate_red", 2 ], [ "china_plate_green", 1 ] ]
   },
   {
     "id": "my_precious",
     "type": "item_group",
     "subtype": "distribution",
-    "copy-from": "my_precious",
-    "extend": { "items": [ { "group": "stamps", "prob": 20 }, [ "ghet_card_moose", 2 ] ] }
+    "items": [ { "group": "stamps", "prob": 20 }, [ "ghet_card_moose", 2 ] ]
   },
   {
     "id": "vfw_books",
     "type": "item_group",
-    "copy-from": "vfw_books",
-    "extend": { "items": [ { "group": "stamps", "prob": 1 } ] }
+    "items": [ { "group": "stamps", "prob": 1 } ]
   },
   {
     "type": "item_group",
     "id": "livingroom",
-    "copy-from": "livingroom",
-    "extend": { "items": [ { "group": "plushies", "prob": 50 }, { "group": "stamps", "prob": 3 } ] }
+    "items": [ { "group": "plushies", "prob": 50 }, { "group": "stamps", "prob": 3 } ]
   },
   {
     "id": "dishes_dining",
     "type": "item_group",
     "subtype": "distribution",
-    "copy-from": "dishes_dining",
-    "extend": { "items": [ [ "china_plate_blue", 5 ], [ "china_plate_red", 5 ], [ "china_plate_green", 3 ] ] }
+    "items": [ [ "china_plate_blue", 5 ], [ "china_plate_red", 5 ], [ "china_plate_green", 3 ] ]
   },
   {
     "id": "office_mess",
     "type": "item_group",
-    "copy-from": "office_mess",
-    "extend": { "items": [ { "group": "stamps", "prob": 5 } ] }
+    "items": [ { "group": "stamps", "prob": 5 } ]
   },
   {
     "id": "office",
     "type": "item_group",
-    "copy-from": "office",
-    "extend": { "items": [ { "group": "stamps", "prob": 25 } ] }
+    "items": [ { "group": "stamps", "prob": 25 } ]
   },
   {
     "id": "cubical_office",
     "type": "item_group",
-    "copy-from": "cubical_office",
-    "extend": { "items": [ { "group": "stamps", "prob": 5 } ] }
+    "items": [ { "group": "stamps", "prob": 5 } ]
   },
   {
     "id": "toy_store",
     "type": "item_group",
     "ammo": 75,
     "magazine": 100,
-    "copy-from": "toy_store",
-    "extend": {
-      "items": [
-        { "group": "trading_cards", "prob": 30 },
-        { "group": "plushies", "prob": 40 },
-        [ "foam_dart_pistol", 10 ],
-        [ "foam_dart", 10 ],
-        [ "foam_dart_smg", 5 ]
-      ]
-    }
+    "items": [
+      { "group": "trading_cards", "prob": 30 },
+      { "group": "plushies", "prob": 40 },
+      [ "foam_dart_pistol", 10 ],
+      [ "foam_dart", 10 ],
+      [ "foam_dart_smg", 5 ]
+    ]
   }
 ]

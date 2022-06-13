@@ -5,13 +5,14 @@
     "type": "COMESTIBLE",
     "name": { "str": "raw mirelurk meat", "str_pl": "raw mirelurk meat" },
     "description": "Delicious, fresh Mirelurk. Edible raw, but better cooked. Has trace amounts of mutagen, may not be the best to eat it raw.",
+    "use_action": { "type": "mutagen", "is_weak": true, "mutation_category": "FISH" },
     "weight": "148 g",
     "volume": "250 ml",
     "price": 500,
     "spoils_in": "6 days",
     "healthy": 5,
     "fun": 8,
-    "vitamins": [ [ "vitB", 9 ], [ "mutagen_fish", 60 ] ],
+    "vitamins": [ [ "vitB", 9 ] ],
     "calories": 121
   },
   {
@@ -33,6 +34,7 @@
     "type": "COMESTIBLE",
     "name": { "str": "mirelurk jerky", "str_pl": "mirelurk jerky" },
     "description": "Specially prepared mirelurk meat. It unfortunately retains the mutagenic property, but it will last forever, in theory.",
+    "use_action": { "type": "mutagen", "is_weak": true, "mutation_category": "FISH" },
     "color": "light_gray",
     "spoils_in": "0 hours",
     "stack_size": 4,
@@ -40,7 +42,7 @@
     "quench": -5,
     "healthy": 3,
     "fun": 16,
-    "vitamins": [ [ "vitA", 0 ], [ "vitC", 0 ], [ "calcium", 2 ], [ "iron", 1 ], [ "vitB", 42 ], [ "mutagen_fish", 60 ] ],
+    "vitamins": [ [ "vitA", 0 ], [ "vitC", 0 ], [ "calcium", 2 ], [ "iron", 1 ], [ "vitB", 42 ] ],
     "proportional": { "price": 2, "volume": 0.28, "weight": 0.28 }
   },
   {
@@ -128,13 +130,14 @@
     "name": { "str": "raw mirelurk claw", "str_pl": "raw mirelurk claws" },
     "calories": 493,
     "description": "A raw mirelurk claw. Edible raw, but carries a stronger mutagen than the normal meat",
+    "use_action": { "type": "mutagen", "mutation_category": "FISH" },
     "weight": "148 g",
     "volume": "250 ml",
     "price": 500,
     "spoils_in": "6 days",
     "healthy": 5,
     "fun": 8,
-    "vitamins": [ [ "vitB", 9 ], [ "mutagen_fish", 60 ] ]
+    "vitamins": [ [ "vitB", 9 ] ]
   },
   {
     "id": "claw_mirelurk_cooked",

@@ -28,9 +28,9 @@
     "melee_dice_sides": 3,
     "melee_damage": [ { "damage_type": "acid", "amount": 9 }, { "damage_type": "biological", "amount": 4 } ],
     "attack_effs": [ { "id": "slimed", "duration": 200 } ],
-    "special_attacks": [ [ "FORMBLOB", 5 ], [ "sliming", 20 ], [ "wound_minor", 30 ], [ "ABSORB_ITEMS", 0 ] ],
+    "special_attacks": [ [ "FORMBLOB", 5 ], [ "sliming", 20 ], [ "wound_minor", 30 ] ],
     "death_drops": "mon_gelatin_death_drops",
-    "flags": [ "SMELLS", "HEARS", "PLASTIC", "NO_BREATHE", "NOHEAD", "NOGIB" ],
+    "flags": [ "SMELLS", "HEARS", "PLASTIC", "NO_BREATHE", "NOHEAD", "NOGIB", "ABSORBS" ],
     "anger_triggers": [ "HURT", "FRIEND_DIED" ],
     "placate_triggers": [ "FRIEND_ATTACKED" ]
   },
@@ -59,11 +59,22 @@
         "id": "hammer",
         "cooldown": 40,
         "damage_max_instance": [ { "damage_type": "bash", "amount": 20, "armor_multiplier": 0.5 } ]
-      },
-      [ "ABSORB_ITEMS", 0 ]
+      }
     ],
     "regenerates": 10,
     "regen_morale": true,
-    "flags": [ "SEES", "SMELLS", "SWIMS", "PLASTIC", "SLUDGEPROOF", "ACID_BLOOD", "ACIDPROOF", "NOHEAD", "NOGIB", "ATTACKMON" ]
+    "flags": [
+      "SEES",
+      "SMELLS",
+      "SWIMS",
+      "PLASTIC",
+      "SLUDGEPROOF",
+      "ACID_BLOOD",
+      "ACIDPROOF",
+      "NOHEAD",
+      "ABSORBS",
+      "NOGIB",
+      "ATTACKMON"
+    ]
   }
 ]

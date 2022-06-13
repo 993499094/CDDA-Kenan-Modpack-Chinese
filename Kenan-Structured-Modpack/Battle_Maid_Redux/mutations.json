@@ -44,6 +44,15 @@
   },
   {
     "type": "mutation",
+    "id": "STYLISH",
+    "name": { "str": "Stylish" },
+    "points": 1,
+    "description": "Practicality is far less important than style.  Your morale is improved by wearing fashionable and attractive clothing.",
+    "starting_trait": true,
+    "valid": false
+  },
+  {
+    "type": "mutation",
     "id": "SHOGGOTH_BUFF_OK",
     "name": { "str": "Polymorphic Structure" },
     "points": 5,
@@ -113,7 +122,7 @@
   {
     "type": "mutation",
     "id": "SHOGGOTH_BODY_NPC",
-    "name": { "str": "Eldritch Doppelg\u00e4nger" },
+    "name": { "str": "Eldritch Doppelgänger" },
     "points": -2,
     "visibility": 10,
     "ugliness": 10,

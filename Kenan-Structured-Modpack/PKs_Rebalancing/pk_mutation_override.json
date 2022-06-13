@@ -475,6 +475,7 @@
   {
     "type": "mutation",
     "id": "TRIGGERHAPPY",
+    "copy-from": "TRIGGERHAPPY",
     "name": { "str": "Trigger Happy" },
     "points": -1,
     "description": "Unimplemented.  To be removed after 0.F. to preserve save compatibility.",
@@ -1222,7 +1223,7 @@
     "valid": false,
     "active": true,
     "cost": 10,
-    "kcal": true,
+    "hunger": true,
     "thirst": true,
     "fatigue": true
   },

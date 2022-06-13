@@ -120,7 +120,7 @@
     "price": "340 USD",
     "bashing": 17,
     "to_hit": -1,
-    "material": [ "qt_steel", "ceramic" ],
+    "material": [ "hardsteel", "ceramic" ],
     "symbol": "]",
     "color": "green",
     "diameter": 32,

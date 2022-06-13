@@ -2,8 +2,7 @@
   {
     "type": "item_group",
     "id": "vault",
-    "copy-from": "vault",
-    "extend": { "items": [ [ "textbook_beamsword", 5 ] ] }
+    "items": [ [ "textbook_beamsword", 5 ] ]
   },
   {
     "id": "textbook_beamsword",

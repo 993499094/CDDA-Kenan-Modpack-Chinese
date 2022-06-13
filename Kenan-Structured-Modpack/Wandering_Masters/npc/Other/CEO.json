@@ -24,7 +24,7 @@
     "dynamic_line": "Take it and go away.",
     "responses": [
       {
-        "text": "\u2026",
+        "text": "…",
         "topic": "TALK_DONE",
         "effect": [
           "end_conversation",

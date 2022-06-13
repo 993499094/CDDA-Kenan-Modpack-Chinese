@@ -42,8 +42,7 @@
   {
     "type": "item_group",
     "id": "NC_DOCTOR_eyes",
-    "copy-from": "NC_DOCTOR_eyes",
-    "extend": { "items": [ [ "null", 100 ] ] }
+    "items": [ [ "null", 100 ] ]
   },
   {
     "type": "item_group",

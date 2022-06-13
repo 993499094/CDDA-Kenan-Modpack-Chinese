@@ -47,7 +47,6 @@
   {
     "id": "drugs_rare",
     "type": "item_group",
-    "copy-from": "drugs_rare",
-    "extend": { "items": [ [ "rad_x", 10 ], [ "med_x", 10 ] ] }
+    "items": [ [ "rad_x", 10 ], [ "med_x", 10 ] ]
   }
 ]

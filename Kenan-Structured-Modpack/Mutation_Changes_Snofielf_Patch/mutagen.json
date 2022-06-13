@@ -5,18 +5,13 @@
     "type": "COMESTIBLE",
     "name": { "str": "tortoise serum" },
     "color": "light_green",
-    "use_action": {
-      "type": "consume_drug",
-      "activation_message": "You inject the tortoise mutagenic primer.",
-      "tools_needed": { "syringe": -1 },
-      "vitamins": [ [ "mutagen_tortoise", 450, 550 ] ]
-    }
+    "use_action": { "type": "mutagen_iv", "mutation_category": "TORTOISE" }
   },
   {
     "id": "mutagen_tortoise",
     "copy-from": "mutagen_flavor",
     "type": "COMESTIBLE",
     "name": { "str": "tortoise mutagen" },
-    "vitamins": [ [ "mutagen_tortoise", 175 ], [ "mutagen", 125 ] ]
+    "use_action": { "type": "mutagen", "mutation_category": "TORTOISE" }
   }
 ]

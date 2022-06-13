@@ -33,20 +33,17 @@
     "type": "item_group",
     "id": "NC_meteorologist_worn",
     "subtype": "collection",
-    "copy-from": "NC_meteorologist_worn",
-    "extend": {
-      "entries": [
-        { "item": "briefs" },
-        { "item": "coat_lab" },
-        { "item": "dress_shirt" },
-        { "item": "pants" },
-        { "item": "socks" },
-        { "item": "boots" },
-        { "item": "gloves_rubber" },
-        { "item": "wristwatch" },
-        { "item": "glasses_safety" }
-      ]
-    }
+    "entries": [
+      { "item": "briefs" },
+      { "item": "coat_lab" },
+      { "item": "dress_shirt" },
+      { "item": "pants" },
+      { "item": "socks" },
+      { "item": "boots" },
+      { "item": "gloves_rubber" },
+      { "item": "wristwatch" },
+      { "item": "glasses_safety" }
+    ]
   },
   {
     "type": "talk_topic",

@@ -2,38 +2,32 @@
   {
     "type": "item_group",
     "id": "mil_hw",
-    "copy-from": "mil_hw",
-    "extend": { "items": [ [ "chickenbot_packed", 2 ] ] }
+    "items": [ [ "chickenbot_packed", 2 ] ]
   },
   {
     "type": "item_group",
     "id": "military",
-    "copy-from": "military",
-    "extend": { "items": [ [ "chickenbot_packed", 4 ] ] }
+    "items": [ [ "chickenbot_packed", 4 ] ]
   },
   {
     "type": "item_group",
     "id": "helicopter",
-    "copy-from": "helicopter",
-    "extend": { "items": [ [ "chickenbot_packed", 2 ] ] }
+    "items": [ [ "chickenbot_packed", 2 ] ]
   },
   {
     "type": "item_group",
     "id": "lab_dorm",
-    "copy-from": "lab_dorm",
-    "extend": { "items": [ [ "walker_schematic", 1 ] ] }
+    "items": [ [ "walker_schematic", 1 ] ]
   },
   {
     "type": "item_group",
     "id": "teleport",
-    "copy-from": "teleport",
-    "extend": { "items": [ [ "walker_schematic", 5 ] ] }
+    "items": [ [ "walker_schematic", 5 ] ]
   },
   {
     "type": "item_group",
     "id": "science",
-    "copy-from": "science",
-    "extend": { "items": [ [ "walker_schematic", 1 ] ] }
+    "items": [ [ "walker_schematic", 1 ] ]
   },
   {
     "type": "item_group",

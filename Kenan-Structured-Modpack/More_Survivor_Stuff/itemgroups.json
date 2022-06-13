@@ -2,8 +2,7 @@
   {
     "id": "textbooks",
     "type": "item_group",
-    "copy-from": "textbooks",
-    "extend": { "items": [ [ "mss_gunsmithing_book", 2 ] ] }
+    "items": [ [ "mss_gunsmithing_book", 2 ] ]
   },
   {
     "id": "artisan_logs",
