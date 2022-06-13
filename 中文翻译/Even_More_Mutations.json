@@ -240,6 +240,7 @@
   "key": "8f1c1c93549f2c1cf0e51c9f0c6b0dae",
   "original": "You clench your fists uncontrollably.",
   "translation": "你不受控制地握紧了拳头。",
+  "context": "ID: CRAB\n位于 /Kenan-Structured-Modpack/Even_More_Mutations/EMM_mutation_category.json\n类型为 mutation_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Even_More_Mutations→mutation_category→CRAB\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=CRAB",
   "stage": 3
  },
  {
@@ -281,12 +282,14 @@
   "key": "4b3d96ec49f083805307a83c9aeb7277",
   "original": "You feel like your body elongates.",
   "translation": "你觉得你的身体拉长了。",
+  "context": "ID: SNAKE\n位于 /Kenan-Structured-Modpack/Even_More_Mutations/EMM_mutation_category.json\n类型为 mutation_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Even_More_Mutations→mutation_category→SNAKE\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SNAKE",
   "stage": 3
  },
  {
   "key": "195acb44371ac56021b1f7e586f4e2a8",
   "original": "You feel like your nose starts twitching uncontrollably.",
   "translation": "你感觉你的鼻子开始不受控制地抽搐。",
+  "context": "ID: RABBIT\n位于 /Kenan-Structured-Modpack/Even_More_Mutations/EMM_mutation_category.json\n类型为 mutation_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Even_More_Mutations→mutation_category→RABBIT\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=RABBIT",
   "stage": 3
  },
  {
@@ -398,21 +401,18 @@
   "key": "87efff9ed6e198beedaa43a6639fe3b4",
   "original": "You inject the necromantic mutagenic primer.",
   "translation": "你注射了坏死突变引物。",
-  "context": "ID: iv_mutagen_crab\n位于 /Kenan-Structured-Modpack/Even_More_Mutations/EMM_mutagen.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Even_More_Mutations→COMESTIBLE→iv_mutagen_crab\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iv_mutagen_crab",
   "stage": 0
  },
  {
   "key": "dd388c29c283739ad29467ffd2a7a896",
   "original": "You inject the rabbit mutagenic primer.",
   "translation": "你注射兔子突变引物。",
-  "context": "ID: iv_mutagen_rabbit\n位于 /Kenan-Structured-Modpack/Even_More_Mutations/EMM_mutagen.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Even_More_Mutations→COMESTIBLE→iv_mutagen_rabbit\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iv_mutagen_rabbit",
   "stage": 0
  },
  {
   "key": "f79d00e969e8c3b9dce7878599a56aee",
   "original": "You inject the snake mutagenic primer.",
   "translation": "你注射毒蛇突变引物。",
-  "context": "ID: iv_mutagen_snake\n位于 /Kenan-Structured-Modpack/Even_More_Mutations/EMM_mutagen.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Even_More_Mutations→COMESTIBLE→iv_mutagen_snake\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=iv_mutagen_snake",
   "stage": 0
  },
  {

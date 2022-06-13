@@ -5754,7 +5754,6 @@
   "key": "d98e242529b0dd5e2dac235b9b271228",
   "original": "Essential dietary nutrients conveniently packaged in a fruit-flavored chewy candy form to disguise the ionized iron contained within.  An option of last resort when a balanced diet is not possible, this will also cleanse the body of minor toxins and radioactive particles.  Excess use can cause hypervitaminosis and in some cases overdose.",
   "translation": "必需的膳食营养素方便地包装在水果味的嚼糖形式，以掩盖其中所含的离子铁。当平衡的饮食不可能时，这是最后的选择，这也会清除体内的微量毒素和放射性粒子。过量使用会导致高浓度污染，有时甚至过量。",
-  "context": "ID: gummy_vitamins\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→COMESTIBLE→gummy_vitamins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gummy_vitamins",
   "stage": 1
  },
  {
@@ -7942,6 +7941,7 @@
   "key": "faa9cfa542193737bac7588445a6fd66",
   "original": "Spawns an tribot into the world.",
   "translation": "在这个世界上诞生了一个摩托生物。",
+  "context": "ID: bot_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tripod",
   "stage": 1
  },
  {
@@ -8771,6 +8771,7 @@
   "key": "48d5c741ea2d88fd242249732da7a3e5",
   "original": "The most bugged description.",
   "translation": "The most bugged description.",
+  "context": "ID: mon_null\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/monsters/misc.json\n类型为 MONSTER\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→MONSTER→mon_null\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mon_null",
   "stage": 3
  },
  {
@@ -10695,7 +10696,7 @@
   "key": "a2d66b1e0bcdc17cbac630cba1daf380",
   "original": "You take the %s.",
   "translation": "你服用了%s。",
-  "context": "ID: gummy_vitamins\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→COMESTIBLE→gummy_vitamins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gummy_vitamins",
+  "context": "ID: vitamins\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→COMESTIBLE→vitamins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=vitamins",
   "stage": 5
  },
  {
@@ -13512,7 +13513,6 @@
   "key": "5b2c922a5d0d6454d25739604df28e19",
   "original": "gummy vitamin",
   "translation": "维他命树脂糖",
-  "context": "ID: gummy_vitamins\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/comestible.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→COMESTIBLE→gummy_vitamins\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=gummy_vitamins",
   "stage": 5
  },
  {
@@ -15949,6 +15949,7 @@
   "key": "34cbab524f8fc1e411e468b98309b908",
   "original": "tribot spawner",
   "translation": "tribot产卵器",
+  "context": "ID: bot_tripod\n位于 /Kenan-Structured-Modpack/PKs_Rebalancing/items/bot.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#PKs_Rebalancing→TOOL→bot_tripod\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=bot_tripod",
   "stage": 1
  },
  {

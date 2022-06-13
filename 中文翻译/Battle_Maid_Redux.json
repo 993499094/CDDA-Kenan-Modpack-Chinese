@@ -1223,6 +1223,7 @@
   "key": "ca8b7db99ad788718b33c138feac5307",
   "original": "Finally, after your body tightens up and you reach your limit, you collapse on the doll with a delighted and exhausted smile...",
   "translation": "最终，你绷紧身体达到高潮，然后带着高兴而疲惫的微笑瘫倒在娃娃上…",
+  "context": "ID: master_doll_vibe_on\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_on",
   "stage": 3
  },
  {
@@ -1368,6 +1369,7 @@
   "key": "bfdd52bcbf1ff57046b26e38ed6dd219",
   "original": "I can feel my body being remade. Surely now I can serve you better.",
   "translation": "我能感觉到自己的身体正在被重构。现在的我一定能将您侍奉得更周到。",
+  "context": "ID: MAID\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/mutation_category.json\n类型为 mutation_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→mutation_category→MAID\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MAID",
   "stage": 3
  },
  {
@@ -1742,14 +1744,12 @@
   "key": "375b340326ffd13e66b57d6537d45c2e",
   "original": "Maid Metamorphosis",
   "translation": "少女蜕变",
-  "context": "ID: mutagen_maid\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_maid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_maid",
   "stage": 0
  },
  {
   "key": "9d8c53e910300d2c01aaf931eb093c83",
   "original": "Maid Mutation",
   "translation": "女仆突变",
-  "context": "ID: mutagen_maid\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_maid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_maid",
   "stage": 0
  },
  {
@@ -1770,7 +1770,6 @@
   "key": "cfb2b9b8e2cbfe65752a176a419eed87",
   "original": "Maid Transformation",
   "translation": "女佣转型",
-  "context": "ID: mutagen_maid\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_maid\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_maid",
   "stage": 0
  },
  {
@@ -2032,21 +2031,18 @@
   "key": "62780323a284d7377aa1e9598cc1554b",
   "original": "Shoggoth Metamorphosis",
   "translation": "肖戈斯变态",
-  "context": "ID: mutagen_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_shoggoth",
   "stage": 0
  },
  {
   "key": "c3152803150f7e6b301f6f1e4f226401",
   "original": "Shoggoth Mutation",
   "translation": "Shoggoth突变",
-  "context": "ID: mutagen_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_shoggoth",
   "stage": 0
  },
  {
   "key": "278c805cdd80961c27c17576d06a7487",
   "original": "Shoggoth Transformation",
   "translation": "肖戈斯变换",
-  "context": "ID: mutagen_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_shoggoth",
   "stage": 0
  },
  {
@@ -2360,7 +2356,7 @@
   "key": "cb5d1e326a101691dbccbce1d1f7b3c5",
   "original": "This is a doll in the shape of your beloved master, but with an additional 'special attachment.' By using it in a certain (rather embarassing) type of private ritual, you can release an explosion of desire towards your beloved master and transform it into a usable type of energy.",
   "translation": "这是一个你心爱的主人形状的玩偶，不过其上面有一个额外的“特殊的组件”。通过在某种（相当令人尴尬的）私人仪式中使用它，你可以释放，并爆发出你心中对你心爱的主人强大的欲望，变成一种可用的能量。",
-  "context": "ID: master_doll_vibe_off\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_off",
+  "context": "ID: master_doll_vibe_on\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_on",
   "stage": 5
  },
  {
@@ -2500,6 +2496,7 @@
   "key": "7a24c39c929e3896bf14d01a74bcc56f",
   "original": "Where is your master? You need to be milked.",
   "translation": "你的主人去哪了？你需要被挤奶。",
+  "context": "ID: MILK\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/mutation_category.json\n类型为 mutation_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→mutation_category→MILK\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=MILK",
   "stage": 3
  },
  {
@@ -2667,6 +2664,7 @@
   "key": "2a0bef26962112a7fe0440c7affac497",
   "original": "You can no longer suppress your feelings and began to intimately press against your master's doll...",
   "translation": "你无法抑制内心的感情，开始亲密地挤压主人的娃娃...",
+  "context": "ID: master_doll_vibe_off\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_off",
   "stage": 3
  },
  {
@@ -2701,21 +2699,18 @@
   "key": "7f6bedd0e39e772e8d94689f2a663f99",
   "original": "You consumed a large amount of maid mutagen.",
   "translation": "你吃了大量的诱变剂。",
-  "context": "ID: mutagen_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_shoggoth",
   "stage": 0
  },
  {
   "key": "a273e51574a2a7d11ac570dc4e233ecd",
   "original": "You consumed a life-changing amount of maid mutagen.",
   "translation": "你摄入了改变一生的诱变剂。",
-  "context": "ID: mutagen_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_shoggoth",
   "stage": 0
  },
  {
   "key": "4745ebd5ef95d008c543a5ad0133f8ea",
   "original": "You consumed maid mutagen.",
   "translation": "你吃了诱变剂。",
-  "context": "ID: mutagen_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/effects.json\n类型为 effect_type\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→effect_type→mutagen_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=mutagen_shoggoth",
   "stage": 0
  },
  {
@@ -2743,6 +2738,7 @@
   "key": "e29451cea485f4914b905a4083cb2b19",
   "original": "You feel the stars overtaking you.",
   "translation": "你感觉到星星在追你。",
+  "context": "ID: SHOGGOTH\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/mutation_category.json\n类型为 mutation_category\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→mutation_category→SHOGGOTH\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=SHOGGOTH",
   "stage": 3
  },
  {
@@ -2777,7 +2773,6 @@
   "key": "87efff9ed6e198beedaa43a6639fe3b4",
   "original": "You inject the necromantic mutagenic primer.",
   "translation": "你注射了坏死突变引物。",
-  "context": "ID: meat_shoggoth\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 COMESTIBLE\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→COMESTIBLE→meat_shoggoth\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=meat_shoggoth",
   "stage": 0
  },
  {
@@ -3105,14 +3100,12 @@
   "key": "61f9dfeed33f07db84d329e13afe1ef6",
   "original": "create maid power",
   "translation": "create maid power",
-  "context": "ID: create_maid_power\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→SPELL→create_maid_power\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=create_maid_power",
   "stage": 3
  },
  {
   "key": "f81b540935615098bbeea7ace65934c5",
   "original": "create maid power.",
   "translation": "create maid power.",
-  "context": "ID: create_maid_power\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/spells.json\n类型为 SPELL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→SPELL→create_maid_power\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=create_maid_power",
   "stage": 3
  },
  {
@@ -3467,19 +3460,20 @@
   "key": "1ecb1a0739f19c23dfa6d7e23bd5f86f",
   "original": "master doll (vibrator)",
   "translation": "主人玩偶（按摩棒）",
-  "context": "ID: master_doll_vibe_off\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_off",
   "stage": 3
  },
  {
   "key": "5b1dc5df18e2867876fd5bf4a076d710",
   "original": "master doll (vibrator) (off)",
   "translation": "主人玩偶（按摩棒）（关闭）",
+  "context": "ID: master_doll_vibe_off\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_off\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_off",
   "stage": 3
  },
  {
   "key": "c0407ca556e357d77d046e0650ed715c",
   "original": "master doll (vibrator) (on)",
   "translation": "主人玩偶（按摩棒）（开启）",
+  "context": "ID: master_doll_vibe_on\n位于 /Kenan-Structured-Modpack/Battle_Maid_Redux/tools.json\n类型为 TOOL\n\nWIKI:\nhttps://onetwo.ren/CDDA-Kenan-Modpack-Chinese/#Battle_Maid_Redux→TOOL→master_doll_vibe_on\n物品浏览器：\nhttp://cdda.aloxaf.cn/search?q=master_doll_vibe_on",
   "stage": 3
  },
  {
